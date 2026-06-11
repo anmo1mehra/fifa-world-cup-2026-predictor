@@ -1,0 +1,875 @@
+player,team,expected_goals,golden_boot_prob,total_goals_all_sims
+Lionel Messi,Argentina,2.6992,0.1155243406593407,13496
+Kylian Mbappé,France,2.588,0.10761314019314008,12940
+Enner Valencia,Ecuador,2.4446,0.09420312409812398,12223
+Harry Kane,England,2.4104,0.0860002109002108,12052
+Erling Haaland,Norway,1.8196,0.046143640803640806,9098
+Lautaro Martínez,Argentina,1.9028,0.038981204906204894,9514
+Mehdi Taremi,Iran,1.8662,0.0388843722943723,9331
+Romelu Lukaku,Belgium,1.945,0.03873649794649794,9725
+Cristiano Ronaldo,Portugal,1.6652,0.02926545898545899,8326
+Mohamed Salah,Egypt,1.589,0.02780389832389832,7945
+Luis Díaz,Colombia,1.4332,0.02007691419691419,7166
+Raúl Jiménez,Mexico,1.4928,0.01923692640692641,7464
+Son Heung-min,South Korea,1.2036,0.011782375957375961,6018
+Sardar Azmoun,Iran,1.2246,0.011510649350649353,6123
+Ayase Ueda,Japan,1.2204,0.011157779997780002,6102
+Cody Gakpo,Netherlands,1.2492,0.01038473748473749,6246
+Andrej Kramarić,Croatia,1.287,0.009704749694749697,6435
+Raphinha,Brazil,1.223,0.009101733821733824,6115
+Scott McTominay,Scotland,1.0818,0.00888714285714286,5409
+Jonathan David,Canada,1.2406,0.008752594627594631,6203
+Mikel Oyarzabal,Spain,1.157,0.00865261904761905,5785
+Mohamed Amoura,Algeria,1.0546,0.008184256299256303,5273
+Kevin De Bruyne,Belgium,1.2038,0.00765854700854701,6019
+Henry Martín,Mexico,1.1772,0.007488499278499279,5886
+Viktor Gyökeres,Sweden,1.0172,0.007407370962370963,5086
+Breel Embolo,Switzerland,1.1396,0.007282222222222224,5698
+Jesús Ferreira,United States,1.1258,0.007078083028083027,5629
+Bruno Fernandes,Portugal,1.1124,0.006700235320235319,5562
+Julián Álvarez,Argentina,1.1384,0.006582857142857141,5692
+Luis Suárez,Colombia,1.107,0.006219920634920635,5535
+Ayoub El Kaabi,Morocco,1.0018,0.006165411255411254,5009
+Richarlison,Brazil,1.043,0.005954126984126984,5215
+Aymen Hussein,Iraq,0.9286,0.005824506604506603,4643
+Darwin Núñez,Uruguay,0.9512,0.005042142857142854,4756
+Álvaro Morata,Spain,1.0552,0.0049331818181818175,5276
+Memphis Depay,Netherlands,1.0706,0.0048110317460317445,5353
+Vinícius Júnior,Brazil,1.0638,0.004609427239427238,5319
+Sadio Mané,Senegal,0.9356,0.004465531135531134,4678
+Mikel Merino,Spain,0.9484,0.004325319680319679,4742
+Antonio Sanabria,Paraguay,0.8148,0.003817878787878787,4074
+Youssef En-Nesyri,Morocco,0.8136,0.0036544516594516595,4068
+Zeki Amdouni,Switzerland,1.0208,0.0036485714285714294,5104
+Ismael Díaz,Panama,0.837,0.0035721428571428566,4185
+Marko Arnautović,Austria,0.9154,0.0032025274725274726,4577
+Luis Chávez,Mexico,0.8996,0.0028991269841269836,4498
+Marcel Sabitzer,Austria,0.7952,0.002837142857142857,3976
+Bukayo Saka,England,0.8226,0.0028077777777777775,4113
+Christian Pulisic,United States,0.8316,0.002805238095238095,4158
+Giorgian de Arrascaeta,Uruguay,0.8144,0.00268976911976912,4072
+Tajon Buchanan,Canada,0.8134,0.002495959595959596,4067
+César Montes,Mexico,0.8658,0.0024958608058608055,4329
+Julio Enciso,Paraguay,0.7822,0.002493003663003663,3911
+Florian Wirtz,Germany,0.845,0.0023102380952380957,4225
+Kai Havertz,Germany,0.9698,0.0022768081918081917,4849
+Takumi Minamino,Japan,0.715,0.0022577777777777774,3575
+Michael Gregoritsch,Austria,0.784,0.0022040426240426242,3920
+Brahim Díaz,Morocco,0.8266,0.002103888888888889,4133
+Edson Álvarez,Mexico,0.8774,0.002086733821733822,4387
+Almoez Ali,Qatar,0.7448,0.0020661782661782657,3724
+Youri Tielemans,Belgium,0.6536,0.002031666666666667,3268
+Lee Kang-in,South Korea,0.7252,0.0018233333333333335,3626
+Azzedine Ounahi,Morocco,0.6938,0.0017810317460317457,3469
+Akram Afif,Qatar,0.6178,0.001653083028083028,3089
+Edin Džeko,Bosnia and Herzegovina,0.711,0.0015638095238095237,3555
+Rodrygo,Brazil,0.7002,0.0015635714285714287,3501
+Firas Al-Buraikan,Saudi Arabia,0.6036,0.0014828449328449327,3018
+Neymar,Brazil,0.9016,0.0014498484848484853,4508
+James Rodríguez,Colombia,0.7116,0.0014259401709401712,3558
+Yazan Al-Naimat,Jordan,0.4762,0.0014006227106227107,2381
+Ferran Torres,Spain,0.863,0.0013733333333333334,4315
+Adrien Rabiot,France,0.5628,0.0013277777777777776,2814
+Jamal Musiala,Germany,0.7222,0.0012588888888888888,3611
+Olivier Giroud,France,0.7664,0.0012395981795981796,3832
+Baghdad Bounedjah,Algeria,0.7814,0.0012369047619047618,3907
+John McGinn,Scotland,0.5656,0.0012334199134199136,2828
+Joshua Kimmich,Germany,0.6986,0.0012333333333333335,3493
+Félix Torres,Ecuador,0.7202,0.001208888888888889,3601
+Dani Olmo,Spain,0.6704,0.0011759401709401708,3352
+Lucas Paquetá,Brazil,0.688,0.001106899766899767,3440
+Jackson Irvine,Australia,0.4678,0.0011,2339
+Mehdi Ghayedi,Iran,0.5588,0.000978888888888889,2794
+Omar Alderete,Paraguay,0.6008,0.0009685714285714286,3004
+Marcus Rashford,England,0.5708,0.0009555555555555557,2854
+Yoane Wissa,DR Congo,0.4848,0.0009333333333333332,2424
+Kerem Aktürkoğlu,Turkey,0.593,0.0009333333333333332,2965
+Federico Valverde,Uruguay,0.5322,0.0009,2661
+Duckens Nazon,Haiti,0.58,0.0008960317460317461,2900
+Orbelín Pineda,Mexico,0.5792,0.000871991341991342,2896
+Randal Kolo Muani,France,0.6662,0.0008237373737373737,3331
+Trézéguet,Egypt,0.693,0.0008121378621378622,3465
+José Fajardo,Panama,0.4614,0.0008066666666666667,2307
+Craig Goodwin,Australia,0.574,0.0008038888888888889,2870
+Mohammad Mohebi,Iran,0.6532,0.0008035714285714284,3266
+Saleh Al-Shehri,Saudi Arabia,0.5916,0.0007833333333333333,2958
+Alexander Sørloth,Norway,0.5814,0.0007614285714285714,2907
+Ritsu Dōan,Japan,0.6026,0.0007320512820512822,3013
+Kusini Yengi,Australia,0.4866,0.00073,2433
+Nicolás Otamendi,Argentina,0.4702,0.0007272893772893773,2351
+Patrik Schick,Czech Republic,0.5082,0.0007,2541
+Enzo Fernández,Argentina,0.4862,0.0006769047619047619,2431
+Remo Freuler,Switzerland,0.687,0.0006634199134199133,3435
+Luis Romo,Mexico,0.5794,0.0006583333333333333,2897
+Denzel Dumfries,Netherlands,0.5674,0.0006487179487179488,2837
+Musa Al-Taamari,Jordan,0.3914,0.000634126984126984,1957
+Leandro Trossard,Belgium,0.6434,0.000633956043956044,3217
+Tomáš Souček,Czech Republic,0.5198,0.0006222222222222223,2599
+Lee Jae-sung,South Korea,0.4432,0.0006125274725274725,2216
+Lamine Yamal,Spain,0.5738,0.0005842735042735043,2869
+Jacob Shaffelburg,Canada,0.6322,0.0005666666666666667,3161
+Luiz Henrique,Brazil,0.3666,0.0005622222222222223,1833
+Hwang Hee-chan,South Korea,0.5184,0.0005619047619047619,2592
+Wout Weghorst,Netherlands,0.6534,0.0005548484848484849,3267
+Joselu,Spain,0.5736,0.0005126068376068376,2868
+Václav Černý,Czech Republic,0.3734,0.0005,1867
+Cyle Larin,Canada,0.6124,0.00047936507936507933,3062
+Franck Kessié,Ivory Coast,0.423,0.00047333333333333336,2115
+Mohamed Ali Ben Romdhane,Tunisia,0.3206,0.0004666666666666666,1603
+Abbosbek Fayzullaev,Uzbekistan,0.5078,0.00045746031746031745,2539
+Santiago Giménez,Mexico,0.605,0.00045412198912198916,3025
+Rodrigo Bentancur,Uruguay,0.3966,0.00045,1983
+Luka Modrić,Croatia,0.4812,0.0004396825396825397,2406
+Kenan Yıldız,Turkey,0.2208,0.00043333333333333337,1104
+Ruben Vargas,Switzerland,0.447,0.00043333333333333337,2235
+Cho Gue-sung,South Korea,0.429,0.00043,2145
+Achraf Hakimi,Morocco,0.563,0.0004222222222222222,2815
+Salem Al-Dawsari,Saudi Arabia,0.4124,0.0004166666666666666,2062
+Mostafa Mohamed,Egypt,0.4986,0.00041371794871794873,2493
+Miguel Almirón,Paraguay,0.3866,0.0003833333333333333,1933
+Alan Minda,Ecuador,0.4856,0.0003833333333333333,2428
+Alexis Vega,Mexico,0.6062,0.0003833333333333333,3031
+Jérémy Doku,Belgium,0.5496,0.0003788888888888889,2748
+Nicolás González,Argentina,0.4786,0.0003696969696969696,2393
+Frantzdy Pierrot,Haiti,0.3882,0.00036857142857142855,1941
+Oswin Appollis,South Africa,0.3538,0.00036666666666666667,1769
+Niclas Füllkrug,Germany,0.589,0.00035690476190476195,2945
+Julián Alvarez,Argentina,0.6168,0.0003519047619047619,3084
+Jhon Córdoba,Colombia,0.576,0.0003405555555555556,2880
+Thiago Almada,Argentina,0.4818,0.00032857142857142856,2409
+Habib Diallo,Senegal,0.4448,0.0003224675324675324,2224
+Granit Xhaka,Switzerland,0.452,0.0003222222222222222,2260
+Riyad Mahrez,Algeria,0.522,0.00032,2610
+Oston Urunov,Uzbekistan,0.3484,0.00031818181818181815,1742
+Jamie Maclaren,Australia,0.4098,0.0003166666666666667,2049
+Nick Woltemade,Germany,0.4844,0.00031666666666666665,2422
+Donyell Malen,Netherlands,0.5088,0.00031666666666666665,2544
+Eldor Shomurodov,Uzbekistan,0.4042,0.0003083333333333333,2021
+Mohammed Kudus,Ghana,0.2774,0.0003,1387
+Ismaïla Sarr,Senegal,0.5138,0.0002967532467532467,2569
+Christoph Baumgartner,Austria,0.5342,0.00028205128205128203,2671
+Ángel Di María,Argentina,0.6468,0.0002800865800865801,3234
+Daichi Kamada,Japan,0.4988,0.000275,2494
+Oh Hyeon-gyu,South Korea,0.35,0.0002666666666666666,1750
+Nico Williams,Spain,0.4904,0.0002666666666666666,2452
+Gervane Kastaneer,Curaçao,0.2844,0.0002666666666666666,1422
+Takefusa Kubo,Japan,0.5008,0.00025,2504
+Nathan Saliba,Canada,0.4052,0.00024166666666666664,2026
+Emil Forsberg,Sweden,0.3164,0.00023888888888888888,1582
+Gonçalo Ramos,Portugal,0.5084,0.00023523809523809521,2542
+João Félix,Portugal,0.4634,0.0002333333333333333,2317
+Xherdan Shaqiri,Switzerland,0.4548,0.00022888888888888888,2274
+João Cancelo,Portugal,0.468,0.00022857142857142857,2340
+Alexis Mac Allister,Argentina,0.4828,0.0002233333333333333,2414
+Gonzalo Plata,Ecuador,0.4716,0.00021818181818181816,2358
+Pape Gueye,Senegal,0.3352,0.00021818181818181816,1676
+Malik Tillman,United States,0.4198,0.00020555555555555553,2099
+Seko Fofana,Ivory Coast,0.3408,0.0002,1704
+Dailon Livramento,Cape Verde,0.3714,0.0002,1857
+Jamiro Monteiro,Cape Verde,0.2848,0.0002,1424
+Deniz Undav,Germany,0.3676,0.0002,1838
+Ibrahim Maza,Algeria,0.2518,0.0002,1259
+Rafael Santos Borré,Colombia,0.2834,0.0002,1417
+Davinson Sánchez,Colombia,0.2858,0.0002,1429
+Ismael Saibari,Morocco,0.555,0.00019777777777777773,2775
+Sofiane Boufal,Morocco,0.4072,0.00019555555555555553,2036
+Elias Saad,Tunisia,0.246,0.00019523809523809522,1230
+Brandon Vázquez,United States,0.4214,0.00018523809523809525,2107
+Kevin Rodríguez,Ecuador,0.478,0.00018484848484848484,2390
+Pavel Šulc,Czech Republic,0.37,0.0001847496947496947,1850
+Hakan Çalhanoğlu,Turkey,0.3378,0.00017888888888888889,1689
+Jude Bellingham,England,0.3718,0.00016285714285714287,1859
+Ali Olwan,Jordan,0.3362,0.00015555555555555556,1681
+Azizbek Turgunboev,Uzbekistan,0.2648,0.0001533333333333333,1324
+Serge Gnabry,Germany,0.4682,0.00015,2341
+Philipp Lienhart,Austria,0.1854,0.00015,927
+Mathías Olivera,Uruguay,0.264,0.00014523809523809522,1320
+Mario Pašalić,Croatia,0.403,0.00014,2015
+Nicolás de la Cruz,Uruguay,0.4072,0.00014,2036
+İlkay Gündoğan,Germany,0.4612,0.00013833333333333333,2306
+Matías Galarza,Paraguay,0.405,0.00013166666666666668,2025
+Cédric Bakambu,DR Congo,0.3236,0.00012857142857142855,1618
+Mateus Uribe,Colombia,0.2834,0.000125,1417
+Tim Kleindienst,Germany,0.4684,0.0001181818181818182,2342
+Lyndon Dykes,Scotland,0.333,0.0001181818181818182,1665
+Lovro Majer,Croatia,0.2422,0.00011666666666666668,1211
+Hidemasa Morita,Japan,0.4076,0.00011666666666666665,2038
+Renato Steffen,Switzerland,0.3404,0.00011666666666666665,1702
+Ryan Mendes,Cape Verde,0.2962,0.00011538461538461537,1481
+Hakim Ziyech,Morocco,0.5514,0.00010714285714285714,2757
+Sébastien Haller,Ivory Coast,0.4184,0.00010666666666666667,2092
+Jordan Ayew,Ghana,0.4214,0.0001,2107
+Mao Hosoya,Japan,0.2078,0.0001,1039
+Viktor Claesson,Sweden,0.1884,0.0001,942
+Gavi,Spain,0.3726,0.0001,1863
+Chris Wood,New Zealand,0.3688,0.0001,1844
+Anthony Elanga,Sweden,0.2422,0.0001,1211
+Roberto Alvarado,Mexico,0.2946,0.0001,1473
+Alireza Jahanbakhsh,Iran,0.3218,0.0001,1609
+Paulo Dybala,Argentina,0.3166,0.0001,1583
+Walker Zimmerman,United States,0.1334,0.0001,667
+Omar Marmoush,Egypt,0.4048,0.0001,2024
+Keito Nakamura,Japan,0.3006,0.0001,1503
+Ladislav Krejčí,Czech Republic,0.2982,0.0001,1491
+Fabián Ruiz,Spain,0.3796,0.0001,1898
+Promise David,Canada,0.2102,0.0001,1051
+Aurélien Tchouaméni,France,0.1928,0.0001,964
+Ivan Perišić,Croatia,0.4758,9.857142857142856e-05,2379
+Dejan Kulusevski,Sweden,0.2416,9e-05,1208
+Jefferson Lerma,Colombia,0.283,8.333333333333333e-05,1415
+Xavi Simons,Netherlands,0.3552,7.5e-05,1776
+Casemiro,Brazil,0.3542,7.5e-05,1771
+Gerardo Arteaga,Mexico,0.2914,7.222222222222222e-05,1457
+Juan Fernando Quintero,Colombia,0.284,6.666666666666666e-05,1420
+Rustam Ashurmatov,Uzbekistan,0.0898,6.666666666666666e-05,449
+Nicolas Jackson,Senegal,0.3448,6.666666666666666e-05,1724
+Manuel Akanji,Switzerland,0.456,6.666666666666666e-05,2280
+Husniddin Aliqulov,Uzbekistan,0.1734,6.666666666666666e-05,867
+İrfan Kahveci,Turkey,0.1658,6.666666666666666e-05,829
+Mohanad Ali,Iraq,0.2164,6.666666666666666e-05,1082
+Pape Matar Sarr,Senegal,0.35,6.666666666666666e-05,1750
+Maximiliano Araújo,Uruguay,0.2696,6.666666666666666e-05,1348
+Alexander Isak,Sweden,0.2778,6.666666666666666e-05,1389
+Cristian Martínez,Panama,0.1418,6.666666666666666e-05,709
+Ángel Mena,Ecuador,0.247,6.666666666666666e-05,1235
+Ryan Christie,Scotland,0.3348,6.666666666666666e-05,1674
+Antonio Nusa,Norway,0.2528,6.666666666666666e-05,1264
+Lamine Camara,Senegal,0.2666,6.666666666666666e-05,1333
+Leroy Sané,Germany,0.3394,6.666666666666666e-05,1697
+Moisés Caicedo,Ecuador,0.2454,6.500000000000001e-05,1227
+Ramin Rezaeian,Iran,0.342,6.333333333333333e-05,1710
+Lisandro Martínez,Argentina,0.1638,5.8333333333333326e-05,819
+Philippe Coutinho,Brazil,0.3556,5e-05,1778
+Declan Rice,England,0.3822,5e-05,1911
+Pablo Sarabia,Spain,0.1924,5e-05,962
+Musab Al-Juwayr,Saudi Arabia,0.2542,5e-05,1271
+Thomas Partey,Ghana,0.182,5e-05,910
+Daniel Muñoz,Colombia,0.2954,5e-05,1477
+Hossein Kanaanizadegan,Iran,0.2236,5e-05,1118
+Kendry Páez,Ecuador,0.4934,5e-05,2467
+Ante Budimir,Croatia,0.3242,5e-05,1621
+Tomáš Chorý,Czech Republic,0.296,4.523809523809523e-05,1480
+Merih Demiral,Turkey,0.277,4.3956043956043955e-05,1385
+Patrick Agyemang,United States,0.2782,4.1666666666666665e-05,1391
+Iván Anderson,Panama,0.0692,4e-05,346
+Jan Kuchta,Czech Republic,0.2176,4e-05,1088
+Mitchell Duke,Australia,0.2332,4e-05,1166
+Folarin Balogun,United States,0.2732,4e-05,1366
+Junior Hoilett,Canada,0.4118,4e-05,2059
+Michael Olise,France,0.3778,4e-05,1889
+Meschak Elia,DR Congo,0.2482,4e-05,1241
+Franjo Ivanović,Croatia,0.1656,3.333333333333333e-05,828
+Ben Waine,New Zealand,0.1936,3.333333333333333e-05,968
+Yeremy Pino,Spain,0.1824,2.857142857142857e-05,912
+Tani Oluwaseyi,Canada,0.1986,2.857142857142857e-05,993
+Jeremy Sarmiento,Ecuador,0.2418,2.857142857142857e-05,1209
+Serdar Dursun,Turkey,0.2222,2.857142857142857e-05,1111
+Nishan Velupillay,Australia,0.236,2.857142857142857e-05,1180
+Sam Adekugbe,Canada,0.2124,2.857142857142857e-05,1062
+Francisco Conceição,Portugal,0.1988,2.857142857142857e-05,994
+Érick Sánchez,Mexico,0.2952,2.857142857142857e-05,1476
+Gaël Kakuta,DR Congo,0.167,2.857142857142857e-05,835
+Harry Souttar,Australia,0.24,2.857142857142857e-05,1200
+Chris Richards,United States,0.2722,2.857142857142857e-05,1361
+Robert Morales,Paraguay,0.1978,2.857142857142857e-05,989
+Tijjani Reijnders,Netherlands,0.357,2.5e-05,1785
+Lyle Foster,South Africa,0.3616,2.5e-05,1808
+Richmond Boakye,Ghana,0.044,2.5e-05,220
+Jaouen Hadjam,Algeria,0.1318,2.5e-05,659
+Konrad Laimer,Austria,0.3318,2.5e-05,1659
+Yerry Mina,Colombia,0.149,2.5e-05,745
+Bradley Barcola,France,0.2892,2.222222222222222e-05,1446
+Ruben Providence,Haiti,0.165,2.222222222222222e-05,825
+Sávio,Brazil,0.181,2.222222222222222e-05,905
+Gabriel Magalhães,Brazil,0.1736,2.222222222222222e-05,868
+Mohamed El Amine Amoura,Algeria,0.2612,2.222222222222222e-05,1306
+Willy Semedo,Cape Verde,0.1806,2e-05,903
+Christopher Nkunku,France,0.192,2e-05,960
+Abdulrahman Ghareeb,Saudi Arabia,0.1738,1.8181818181818182e-05,869
+Jack Grealish,England,0.2828,1.8181818181818182e-05,1414
+Bruno Guimarães,Brazil,0.3472,1.8181818181818182e-05,1736
+Cengiz Ünder,Turkey,0.1584,1.6666666666666664e-05,792
+Rodrigo Aguirre,Uruguay,0.4028,1.6666666666666664e-05,2014
+João Neves,Portugal,0.2056,1.6666666666666664e-05,1028
+Arda Güler,Turkey,0.2828,1.5384615384615384e-05,1414
+Thomas Müller,Germany,0.116,1.5384615384615384e-05,580
+Ousmane Dembélé,France,0.2848,1.5384615384615384e-05,1424
+Martin Boyle,Australia,0.3256,1.5384615384615384e-05,1628
+Alexander Djiku,Ghana,0.1916,1.5384615384615384e-05,958
+Themba Zwane,South Africa,0.2616,1.5384615384615384e-05,1308
+Barış Alper Yılmaz,Turkey,0.053,0.0,265
+Tom Rogic,Australia,0.087,0.0,435
+Jesper Karlsson,Sweden,0.0598,0.0,299
+David Møller Wolfe,Norway,0.0506,0.0,253
+Cecilio Waterman,Panama,0.1396,0.0,698
+Mislav Oršić,Croatia,0.0834,0.0,417
+Bruno Petković,Croatia,0.3384,0.0,1692
+Osman Bukari,Ghana,0.0396,0.0,198
+Lewis Miller,Australia,0.1586,0.0,793
+Igor Jesus,Brazil,0.1796,0.0,898
+Kamaldeen Sulemana,Ghana,0.0454,0.0,227
+Raheem Sterling,England,0.0928,0.0,464
+Serdar Gürler,Turkey,0.0548,0.0,274
+Ryōya Morishita,Japan,0.1054,0.0,527
+Hans Vanaken,Belgium,0.2282,0.0,1141
+Andre de Jong,New Zealand,0.027,0.0,135
+Evidence Makgopa,South Africa,0.2702,0.0,1351
+Hamza Igamane,Morocco,0.2668,0.0,1334
+Tshepang Moremi,South Africa,0.094,0.0,470
+Liam Millar,Canada,0.2064,0.0,1032
+Boualem Khoukhi,Qatar,0.0458,0.0,229
+Théo Hernandez,France,0.0938,0.0,469
+Matheus Nunes,Portugal,0.0558,0.0,279
+Mondy Prunier,Haiti,0.0864,0.0,432
+Eliesse Ben Seghir,Morocco,0.139,0.0,695
+Azmahar Ariano,Panama,0.062,0.0,310
+Jovani Welch,Panama,0.0646,0.0,323
+Joe Bell,New Zealand,0.0242,0.0,121
+Yannick Semedo,Cape Verde,0.1022,0.0,511
+Stopira,Cape Verde,0.0912,0.0,456
+Abdallah Nasib,Jordan,0.0378,0.0,189
+Ché Adams,Scotland,0.0864,0.0,432
+Cherif Ndiaye,Senegal,0.256,0.0,1280
+Thapelo Maseko,South Africa,0.0846,0.0,423
+Khuliso Mudau,South Africa,0.0892,0.0,446
+Atiba Hutchinson,Canada,0.212,0.0,1060
+Yusuf Abdurisag,Qatar,0.1064,0.0,532
+Smail Prevljak,Bosnia and Herzegovina,0.1174,0.0,587
+Hwang Ui-jo,South Korea,0.0862,0.0,431
+Johan Manzambi,Switzerland,0.2346,0.0,1173
+Soufiane Rahimi,Morocco,0.1396,0.0,698
+Don Deedson Louicius,Haiti,0.2496,0.0,1248
+Lawrence Shankland,Scotland,0.1588,0.0,794
+Stuart Armstrong,Scotland,0.2402,0.0,1201
+Djordje Mihailovic,United States,0.28,0.0,1400
+Jordan Bos,Australia,0.0852,0.0,426
+Karim Konaté,Ivory Coast,0.1684,0.0,842
+Nathan Aké,Netherlands,0.1452,0.0,726
+Florian Thauvin,France,0.0928,0.0,464
+Kalidou Koulibaly,Senegal,0.1812,0.0,906
+Zaid Tahseen,Iraq,0.0594,0.0,297
+Gonçalo Inácio,Portugal,0.1366,0.0,683
+Kōki Ogawa,Japan,0.3008,0.0,1504
+Hannibal Mejbri,Tunisia,0.0888,0.0,444
+Sebastian Nanasi,Sweden,0.128,0.0,640
+Kye Rowles,Australia,0.0908,0.0,454
+Halil Dervişoğlu,Turkey,0.1098,0.0,549
+Felix Nmecha,Germany,0.1166,0.0,583
+Marten de Roon,Netherlands,0.076,0.0,380
+Calvin Stengs,Netherlands,0.2154,0.0,1077
+Kaoru Mitoma,Japan,0.2976,0.0,1488
+Kwadwo Duah,Switzerland,0.1096,0.0,548
+Romain Saïss,Morocco,0.278,0.0,1390
+Ryan Porteous,Scotland,0.0842,0.0,421
+Bilal El Khannouss,Morocco,0.1398,0.0,699
+Nihad Mujakić,Bosnia and Herzegovina,0.058,0.0,290
+Ermedin Demirović,Bosnia and Herzegovina,0.2356,0.0,1178
+Marco Asensio,Spain,0.0908,0.0,454
+Marcus Thuram,France,0.1842,0.0,921
+Marko Livaja,Croatia,0.171,0.0,855
+Gerson,Brazil,0.1818,0.0,909
+Jonas Hofmann,Germany,0.2362,0.0,1181
+Wahbi Khazri,Tunisia,0.2438,0.0,1219
+Stefan Posch,Austria,0.1926,0.0,963
+Ricardo Horta,Portugal,0.2642,0.0,1321
+Mohamed Abdelmonem,Egypt,0.1022,0.0,511
+Shojae Khalilzadeh,Iran,0.1106,0.0,553
+Bryan Zaragoza,Spain,0.1026,0.0,513
+Jovane Cabral,Cape Verde,0.0966,0.0,483
+Edinson Cavani,Uruguay,0.135,0.0,675
+Kenny McLean,Scotland,0.168,0.0,840
+Jordi Alba,Spain,0.1012,0.0,506
+Bae Jun-ho,South Korea,0.1704,0.0,852
+Lukáš Červ,Czech Republic,0.1484,0.0,742
+Rafael Leão,Portugal,0.2466,0.0,1233
+Sherzod Nasrullaev,Uzbekistan,0.1726,0.0,863
+Trent Alexander-Arnold,England,0.1806,0.0,903
+Taylor Harwood-Bellis,England,0.1002,0.0,501
+Borna Sosa,Croatia,0.1626,0.0,813
+Aníbal Godoy,Panama,0.0678,0.0,339
+Jamie Leweling,Germany,0.1182,0.0,591
+Ramy Rabia,Egypt,0.0906,0.0,453
+Benjamin Nygren,Sweden,0.0512,0.0,256
+Yassine Meriah,Tunisia,0.0826,0.0,413
+William Carvalho,Portugal,0.0666,0.0,333
+Mohau Nkota,South Africa,0.0876,0.0,438
+Miguel Borja,Colombia,0.294,0.0,1470
+Khojiakbar Alijonov,Uzbekistan,0.0834,0.0,417
+Yerson Mosquera,Colombia,0.1366,0.0,683
+Jordan Henderson,England,0.0922,0.0,461
+Mason Mount,England,0.0908,0.0,454
+Callum Wilson,England,0.095,0.0,475
+Eduardo Guerrero,Panama,0.2138,0.0,1069
+Mateo Kovačić,Croatia,0.1656,0.0,828
+Ibrahim Adel,Egypt,0.096,0.0,480
+Callum McGregor,Scotland,0.1796,0.0,898
+Che Adams,Scotland,0.1588,0.0,794
+Jayden Nelson,Canada,0.2076,0.0,1038
+Nestory Irankunda,Australia,0.0798,0.0,399
+Pedri,Spain,0.2848,0.0,1424
+Rubén Vargas,Switzerland,0.11,0.0,550
+Anthony Gordon,England,0.1856,0.0,928
+Lucas Cavallini,Canada,0.2036,0.0,1018
+Amar Rahmanović,Bosnia and Herzegovina,0.0586,0.0,293
+Benjamin Tahirović,Bosnia and Herzegovina,0.0518,0.0,259
+Chadi Riad,Morocco,0.1372,0.0,686
+Bryan Labissiere,Haiti,0.0826,0.0,413
+Duke Lacroix,Haiti,0.0798,0.0,399
+Marquinhos,Brazil,0.1692,0.0,846
+Matheus Cunha,Brazil,0.1678,0.0,839
+Timothy Weah,United States,0.1378,0.0,689
+Brandon Borrello,Australia,0.0762,0.0,381
+Haji Wright,United States,0.2696,0.0,1348
+Mitch Duke,Australia,0.0806,0.0,403
+Abdülkerim Bardakcı,Turkey,0.1112,0.0,556
+Doğukan Sinik,Turkey,0.1002,0.0,501
+Thalente Mbatha,South Africa,0.088,0.0,440
+Thapelo Morena,South Africa,0.1696,0.0,848
+Martin Ødegaard,Norway,0.0952,0.0,476
+Thelo Aasgaard,Norway,0.2476,0.0,1238
+Yazan Al-Arab,Jordan,0.0732,0.0,366
+Ahmed Touba,Algeria,0.125,0.0,625
+Maxim De Cuyper,Belgium,0.433,0.0,2165
+Michael Boxall,New Zealand,0.0256,0.0,128
+Virgil van Dijk,Netherlands,0.2836,0.0,1418
+Shūto Machino,Japan,0.101,0.0,505
+Robin Quaison,Sweden,0.1188,0.0,594
+Ao Tanaka,Japan,0.2116,0.0,1058
+Dodi Lukebakio,Belgium,0.2062,0.0,1031
+Charles De Ketelaere,Belgium,0.324,0.0,1620
+Diego Luna,United States,0.4248,0.0,2124
+Weston McKennie,United States,0.1328,0.0,664
+Aaron Mooy,Australia,0.0824,0.0,412
+Júnior Alonso,Paraguay,0.1962,0.0,981
+Ramón Sosa,Paraguay,0.1922,0.0,961
+Ferdi Kadıoğlu,Turkey,0.0532,0.0,266
+Ibrahim Sangaré,Ivory Coast,0.2428,0.0,1214
+Nicolas Pépé,Ivory Coast,0.1598,0.0,799
+Jordy Caicedo,Ecuador,0.2532,0.0,1266
+Marwan Attia,Egypt,0.0952,0.0,476
+Mohammad Mehdi Mohebi,Iran,0.1082,0.0,541
+Marko Stamenić,New Zealand,0.027,0.0,135
+Bryan Teixeira,Cape Verde,0.0884,0.0,442
+Rodri,Spain,0.095,0.0,475
+Jonathan Clauss,France,0.099,0.0,495
+Felix Horn Myhre,Norway,0.108,0.0,540
+Juninho Bacuna,Curaçao,0.1604,0.0,802
+Yasser Ibrahim,Egypt,0.1024,0.0,512
+Yéremy Pino,Spain,0.0978,0.0,489
+Aymeric Laporte,Spain,0.0954,0.0,477
+Wataru Endo,Japan,0.1046,0.0,523
+Said Benrahma,Algeria,0.1226,0.0,613
+Ibrahim Sadeh,Jordan,0.04,0.0,200
+Andreas Weimann,Austria,0.0654,0.0,327
+Nuno Mendes,Portugal,0.0642,0.0,321
+Nathanaël Mbuku,DR Congo,0.1578,0.0,789
+Charles Pickel,DR Congo,0.0868,0.0,434
+Chancel Mbemba,DR Congo,0.1582,0.0,791
+Ezri Konsa,England,0.0986,0.0,493
+Eberechi Eze,England,0.2798,0.0,1399
+Joško Gvardiol,Croatia,0.2434,0.0,1217
+Axel Witsel,Belgium,0.116,0.0,580
+Petar Sučić,Croatia,0.0868,0.0,434
+Thomas Meunier,Belgium,0.207,0.0,1035
+Martín Zubimendi,Spain,0.1004,0.0,502
+Petar Musa,Croatia,0.0814,0.0,407
+Kosta Barbarouses,New Zealand,0.1252,0.0,626
+Karim Ansarifard,Iran,0.1098,0.0,549
+Ben Old,New Zealand,0.0266,0.0,133
+Carlos Soler,Spain,0.1872,0.0,936
+Garry Rodrigues,Cape Verde,0.1922,0.0,961
+Júlio Tavares,Cape Verde,0.0948,0.0,474
+Hassan Kadesh,Saudi Arabia,0.1754,0.0,877
+Bamba Dieng,Senegal,0.1786,0.0,893
+Idrissa Gueye,Senegal,0.0834,0.0,417
+Abdullah Radif,Saudi Arabia,0.1768,0.0,884
+Haris Hajradinović,Bosnia and Herzegovina,0.0558,0.0,279
+Alphonso Davies,Canada,0.2022,0.0,1011
+Lucas Mendes,Qatar,0.1036,0.0,518
+Haris Tabaković,Bosnia and Herzegovina,0.1688,0.0,844
+Mats Wieffer,Netherlands,0.0754,0.0,377
+Yuya Osako,Japan,0.1022,0.0,511
+Giuliano Simeone,Argentina,0.1578,0.0,789
+Park Jin-seob,South Korea,0.0916,0.0,458
+Kingsley Coman,France,0.2028,0.0,1014
+Michy Batshuayi,Belgium,0.416,0.0,2080
+Saleh Abu Al-Shamat,Saudi Arabia,0.081,0.0,405
+Ronald Araújo,Uruguay,0.126,0.0,630
+Zidane Iqbal,Iraq,0.111,0.0,555
+Mohammad Abu Zrayq,Jordan,0.0382,0.0,191
+Otávio,Portugal,0.1142,0.0,571
+Pepe,Portugal,0.063,0.0,315
+Bernardo Silva,Portugal,0.3974,0.0,1987
+César Yanis,Panama,0.1412,0.0,706
+Martin Erlić,Croatia,0.0808,0.0,404
+Evann Guessand,Ivory Coast,0.2264,0.0,1132
+Uriel Antuna,Mexico,0.3086,0.0,1543
+Jonathan Osorio,Canada,0.218,0.0,1090
+Emmanuel Agbadou,Ivory Coast,0.0808,0.0,404
+Ferjani Sassi,Tunisia,0.1808,0.0,904
+Gustav Lundgren,Sweden,0.0602,0.0,301
+Alexis Saelemaekers,Belgium,0.1118,0.0,559
+Rouzbeh Cheshmi,Iran,0.1098,0.0,549
+Finn Surman,New Zealand,0.0288,0.0,144
+Yan Diomande,Ivory Coast,0.237,0.0,1185
+Estêvão Willian,Brazil,0.1728,0.0,864
+Mert Müldür,Turkey,0.1166,0.0,583
+Rayan Cherki,France,0.0996,0.0,498
+Federico Viñas,Uruguay,0.1366,0.0,683
+Diogo Jota,Portugal,0.2552,0.0,1276
+Jeong Woo-yeong,South Korea,0.0858,0.0,429
+Timo Werner,Germany,0.2334,0.0,1167
+Michael Estrada,Ecuador,0.2518,0.0,1259
+Silvan Widmer,Switzerland,0.2238,0.0,1119
+Jung Seung-hyun,South Korea,0.089,0.0,445
+Matías Viña,Uruguay,0.1344,0.0,672
+Dayot Upamecano,France,0.098,0.0,490
+Hussein Ali,Iraq,0.0562,0.0,281
+Noa Lang,Netherlands,0.2118,0.0,1059
+Elias Achouri,Tunisia,0.2438,0.0,1219
+Hamza Mathlouthi,Tunisia,0.0918,0.0,459
+Ali Abdi,Tunisia,0.1648,0.0,824
+Hazem Mastouri,Tunisia,0.1582,0.0,791
+Yannick Carrasco,Belgium,0.1092,0.0,546
+Danley Jean Jacques,Haiti,0.2436,0.0,1218
+Selim Amallah,Morocco,0.1354,0.0,677
+Hazem Shehata,Qatar,0.0482,0.0,241
+Rangelo Janga,Curaçao,0.1652,0.0,826
+Assan Ouédraogo,Germany,0.1232,0.0,616
+Xander Severina,Curaçao,0.0606,0.0,303
+Cenk Tosun,Turkey,0.158,0.0,790
+Deniz Gül,Turkey,0.0556,0.0,278
+Nadiem Amiri,Germany,0.1266,0.0,633
+Guéla Doué,Ivory Coast,0.0864,0.0,432
+Bazoumana Touré,Ivory Coast,0.1744,0.0,872
+Théo Bongonda,DR Congo,0.2432,0.0,1216
+Dejan Lovren,Croatia,0.0768,0.0,384
+Teun Koopmeiners,Netherlands,0.205,0.0,1025
+Mohamed Hamdy,Egypt,0.1042,0.0,521
+Cole Palmer,England,0.0984,0.0,492
+Jhon Durán,Colombia,0.2676,0.0,1338
+Yoel Bárcenas,Panama,0.1344,0.0,672
+Loïs Openda,Belgium,0.217,0.0,1085
+José Luis Rodríguez,Panama,0.2076,0.0,1038
+Gabriel Martinelli,Brazil,0.1748,0.0,874
+Andreas Pereira,Brazil,0.1776,0.0,888
+Francisco Trincão,Portugal,0.1302,0.0,651
+Adam Karabec,Czech Republic,0.1374,0.0,687
+Ahmed Sayed,Egypt,0.1888,0.0,944
+Jan Kliment,Czech Republic,0.0714,0.0,357
+Miralem Pjanić,Bosnia and Herzegovina,0.058,0.0,290
+Nayef Aguerd,Morocco,0.1366,0.0,683
+Burak Yılmaz,Turkey,0.0552,0.0,276
+Kenji Gorré,Curaçao,0.1708,0.0,854
+Brian Brobbey,Netherlands,0.078,0.0,390
+Junya Itō,Japan,0.1002,0.0,501
+Yuki Soma,Japan,0.1044,0.0,522
+Firas Chaouat,Tunisia,0.1628,0.0,814
+Seifeddine Jaziri,Tunisia,0.161,0.0,805
+Jean-Philippe Mateta,France,0.2,0.0,1000
+Ali Jasim,Iraq,0.1066,0.0,533
+Kieran Tierney,Scotland,0.0816,0.0,408
+Kim Young-gwon,South Korea,0.182,0.0,910
+Ahmed Alaaeldin,Qatar,0.0996,0.0,498
+Ben Gannon-Doak,Scotland,0.0792,0.0,396
+Lewis Ferguson,Scotland,0.0784,0.0,392
+David Raum,Germany,0.1218,0.0,609
+Emre Can,Germany,0.119,0.0,595
+Brandon Mechele,Belgium,0.1146,0.0,573
+Bryan Gil,Spain,0.0952,0.0,476
+Dani Carvajal,Spain,0.1,0.0,500
+Bebé,Cape Verde,0.0936,0.0,468
+Boulaye Dia,Senegal,0.1684,0.0,842
+Abdul Fatawu,Ghana,0.046,0.0,230
+Luka Ivanušec,Croatia,0.082,0.0,410
+Nikola Vlašić,Croatia,0.1542,0.0,771
+Fidel Escobar,Panama,0.1346,0.0,673
+Ali Lajami,Saudi Arabia,0.0868,0.0,434
+Andrés Gómez,Colombia,0.1398,0.0,699
+Khojimat Erkinov,Uzbekistan,0.1676,0.0,838
+David Douděra,Czech Republic,0.1492,0.0,746
+Tomáš Čvančara,Czech Republic,0.077,0.0,385
+Niko Sigur,Canada,0.2108,0.0,1054
+Steven Vitória,Canada,0.205,0.0,1025
+Luka Menalo,Bosnia and Herzegovina,0.059,0.0,295
+Rade Krunić,Bosnia and Herzegovina,0.1192,0.0,596
+Hassan Al-Haydos,Qatar,0.2108,0.0,1054
+Nikola Katić,Bosnia and Herzegovina,0.0538,0.0,269
+Jean-Kévin Duverne,Haiti,0.08,0.0,400
+Rúben Neves,Portugal,0.063,0.0,315
+Tarik Tissoudali,Morocco,0.2846,0.0,1423
+Nico Elvedi,Switzerland,0.1074,0.0,537
+Percy Tau,South Africa,0.1788,0.0,894
+Lukáš Provod,Czech Republic,0.079,0.0,395
+Miroslav Stevanović,Bosnia and Herzegovina,0.0614,0.0,307
+Omid Noorafkan,Iran,0.1098,0.0,549
+Sidny Lopes Cabral,Cape Verde,0.097,0.0,485
+Facundo Pellistri,Uruguay,0.1344,0.0,672
+Antoine Griezmann,France,0.0956,0.0,478
+Bashar Resan,Iraq,0.0556,0.0,278
+Pedro Neto,Portugal,0.0718,0.0,359
+Paul Arriola,United States,0.1384,0.0,692
+Gilson Tavares,Cape Verde,0.095,0.0,475
+Kristijan Jakić,Croatia,0.1568,0.0,784
+Youssouf Fofana,France,0.1826,0.0,913
+Firas Ben Larbi,Tunisia,0.0846,0.0,423
+Nicolás Tagliafico,Argentina,0.1624,0.0,812
+Daizen Maeda,Japan,0.205,0.0,1025
+Ridle Baku,Germany,0.1288,0.0,644
+Otabek Shukurov,Uzbekistan,0.2682,0.0,1341
+Ali Al-Hamadi,Iraq,0.1732,0.0,866
+Conor Gallagher,England,0.0914,0.0,457
+Reece James,England,0.101,0.0,505
+Joo Min-kyu,South Korea,0.1692,0.0,846
+Ahmed Al-Rawi,Qatar,0.153,0.0,765
+Andy Robertson,Scotland,0.0802,0.0,401
+Billy Gilmour,Scotland,0.0914,0.0,457
+Jack Hendry,Scotland,0.0828,0.0,414
+Jearl Margaritha,Curaçao,0.0574,0.0,287
+Leandro Bacuna,Curaçao,0.051,0.0,255
+Stefan de Vrij,Netherlands,0.0694,0.0,347
+Steven Bergwijn,Netherlands,0.2148,0.0,1074
+Ken Sema,Sweden,0.063,0.0,315
+Takuma Asano,Japan,0.1088,0.0,544
+Ismaël Koné,Canada,0.2016,0.0,1008
+Michel Aebischer,Switzerland,0.115,0.0,575
+Dan Ndoye,Switzerland,0.3478,0.0,1739
+Zakaria Aboukhlal,Morocco,0.2748,0.0,1374
+Ayoze Pérez,Spain,0.101,0.0,505
+Paik Seung-ho,South Korea,0.086,0.0,430
+Kwon Chang-hoon,South Korea,0.0914,0.0,457
+Lukáš Kalvach,Czech Republic,0.0744,0.0,372
+Adam Hložek,Czech Republic,0.1414,0.0,707
+Islam Slimani,Algeria,0.2594,0.0,1297
+Fiston Mayele,DR Congo,0.1666,0.0,833
+Igor Sergeev,Uzbekistan,0.2716,0.0,1358
+Noah Okafor,Switzerland,0.1214,0.0,607
+Louicius Don Deedson,Haiti,0.1644,0.0,822
+Youssef Msakni,Tunisia,0.2498,0.0,1249
+Francis de Vries,New Zealand,0.0242,0.0,121
+Mattéo Guendouzi,France,0.096,0.0,480
+Cheikhou Kouyaté,Senegal,0.0864,0.0,432
+Mohamed Elyounoussi,Norway,0.0532,0.0,266
+Myles Lewis-Skelly,England,0.0914,0.0,457
+Rolando Blackburn,Panama,0.0648,0.0,324
+Robin Le Normand,Spain,0.0934,0.0,467
+Kalvin Phillips,England,0.0896,0.0,448
+Ibrahim Al-Hassan,Qatar,0.1032,0.0,516
+Jassem Gaber,Qatar,0.048,0.0,240
+Cade Cowell,United States,0.1416,0.0,708
+Kim Jin-su,South Korea,0.0876,0.0,438
+Malick Fofana,Belgium,0.0988,0.0,494
+Iñigo Martínez,Spain,0.0922,0.0,461
+Joël Monteiro,Switzerland,0.1184,0.0,592
+Bryan Reynolds,United States,0.1382,0.0,691
+Antonee Robinson,United States,0.1298,0.0,649
+Maximilian Arfsten,United States,0.1352,0.0,676
+Samet Akaydin,Turkey,0.0524,0.0,262
+Famara Diédhiou,Senegal,0.1724,0.0,862
+Abdoulaye Seck,Senegal,0.1656,0.0,828
+Adil Boulbina,Algeria,0.134,0.0,670
+Jaloliddin Masharipov,Uzbekistan,0.0866,0.0,433
+Riley McGree,Australia,0.0798,0.0,399
+Orkun Kökçü,Turkey,0.1094,0.0,547
+Yusuf Yazıcı,Turkey,0.0558,0.0,279
+Tyrese Noslin,Curaçao,0.0528,0.0,264
+Georginio Wijnaldum,Netherlands,0.0756,0.0,378
+Yasin Ayari,Sweden,0.118,0.0,590
+Max Mata,New Zealand,0.053,0.0,265
+Sarpreet Singh,New Zealand,0.0526,0.0,263
+Mohamed Kanno,Saudi Arabia,0.0776,0.0,388
+Diney,Cape Verde,0.1886,0.0,943
+Benjamin Pavard,France,0.0942,0.0,471
+Abdou Diallo,Senegal,0.0814,0.0,407
+Anthony Ralston,Scotland,0.0886,0.0,443
+Umut Nayir,Turkey,0.051,0.0,255
+İsmail Yüksek,Turkey,0.0526,0.0,263
+Mathew Leckie,Australia,0.0804,0.0,402
+Leon Goretzka,Germany,0.1168,0.0,584
+Jordi Paulina,Curaçao,0.1124,0.0,562
+Simon Adingra,Ivory Coast,0.2572,0.0,1286
+Robin Hranáč,Czech Republic,0.0662,0.0,331
+Andi Zeqiri,Switzerland,0.1088,0.0,544
+Brenden Aaronson,United States,0.1474,0.0,737
+İrfan Can Kahveci,Turkey,0.111,0.0,555
+Keanu Baccus,Australia,0.0814,0.0,407
+Ismaël Gharbi,Tunisia,0.16,0.0,800
+Arthur Theate,Belgium,0.1044,0.0,522
+Leander Dendoncker,Belgium,0.111,0.0,555
+Manuel Ugarte,Uruguay,0.1368,0.0,684
+Gernot Trauner,Austria,0.06,0.0,300
+Iliman Ndiaye,Senegal,0.2552,0.0,1276
+Jean-Philippe Krasso,Ivory Coast,0.257,0.0,1285
+Amad Diallo,Ivory Coast,0.3218,0.0,1609
+Agustín Canobbio,Uruguay,0.1342,0.0,671
+Aleksandar Pavlović,Germany,0.118,0.0,590
+Farès Chaïbi,Algeria,0.267,0.0,1335
+Aïssa Mandi,Algeria,0.1316,0.0,658
+Martin Zubimendi,Spain,0.1944,0.0,972
+Gonçalo Guedes,Portugal,0.0648,0.0,324
+Luis Sinisterra,Colombia,0.1368,0.0,684
+Carlos Harvey,Panama,0.0632,0.0,316
+Yukinari Sugawara,Japan,0.204,0.0,1020
+Hwang In-beom,South Korea,0.0902,0.0,451
+Mohammed Muntari,Qatar,0.048,0.0,240
+Mostafa Meshaal,Qatar,0.0994,0.0,497
+Salih Özcan,Turkey,0.0546,0.0,273
+Antony,Brazil,0.1726,0.0,863
+Saleh Hardani,Iran,0.1144,0.0,572
+Telmo Arcanjo,Cape Verde,0.0828,0.0,414
+Kevin Pina,Cape Verde,0.0998,0.0,499
+Karim Benzema,France,0.1,0.0,500
+Diogo Dalot,Portugal,0.185,0.0,925
+Arthur Masuaku,DR Congo,0.0832,0.0,416
+Ollie Watkins,England,0.1834,0.0,917
+Eric Davis,Panama,0.2016,0.0,1008
+Mohammed Salisu,Ghana,0.14,0.0,700
+Joshua Zirkzee,Netherlands,0.0726,0.0,363
+Luka Sučić,Croatia,0.0746,0.0,373
+Nahuel Molina,Argentina,0.1614,0.0,807
+Theo Bongonda,DR Congo,0.0828,0.0,414
+Noni Madueke,England,0.0892,0.0,446
+Mahmoud Al-Mardi,Jordan,0.074,0.0,370
+Montassar Talbi,Tunisia,0.0878,0.0,439
+Ibrahim Mbaye,Senegal,0.0878,0.0,439
+Renato Gojković,Bosnia and Herzegovina,0.0592,0.0,296
+Adam Taggart,Australia,0.0776,0.0,388
+John Iredale,Australia,0.08,0.0,400
+Alex Greive,New Zealand,0.0542,0.0,271
+Matthew Garbett,New Zealand,0.052,0.0,260
+Tyler Bindon,New Zealand,0.0518,0.0,259
+Oihan Sancet,Spain,0.0894,0.0,447
+Hussein Ali Al-Saedi,Iraq,0.057,0.0,285
+Youssef Amyn,Iraq,0.102,0.0,510
+Saad Natiq,Iraq,0.0556,0.0,278
+Romano Schmid,Austria,0.1926,0.0,963
+Amine Gouiri,Algeria,0.135,0.0,675
+Richard Ríos,Colombia,0.1546,0.0,773
+Davy Klaassen,Netherlands,0.1512,0.0,756
+Oh Se-hun,South Korea,0.182,0.0,910
+Samed Baždar,Bosnia and Herzegovina,0.0566,0.0,283
+Scott McKenna,Scotland,0.0854,0.0,427
+Bertuğ Yıldırım,Turkey,0.0552,0.0,276
+Gianluca Busio,United States,0.1402,0.0,701
+Ajdin Hrustic,Australia,0.1566,0.0,783
+Diego Gómez,Paraguay,0.2074,0.0,1037
+Wataru Endō,Japan,0.0972,0.0,486
+Sofiane Bendebka,Algeria,0.1292,0.0,646
+Noor Al-Rawabdeh,Jordan,0.0814,0.0,407
+Saed Al-Rosan,Jordan,0.037,0.0,185
+André Ayew,Ghana,0.0992,0.0,496
+Iñaki Williams,Ghana,0.0906,0.0,453
+Axel Tuanzebe,DR Congo,0.0862,0.0,431
+Achraf Dari,Morocco,0.1406,0.0,703
+Koki Ogawa,Japan,0.3026,0.0,1513
+Raphaël Guerreiro,Portugal,0.0648,0.0,324
+Silas Katompa Mvumpa,DR Congo,0.0852,0.0,426
+Odiljon Hamrobekov,Uzbekistan,0.0772,0.0,386
+Michael Amir Murillo,Panama,0.1424,0.0,712
+Curtis Jones,England,0.0948,0.0,474
+Tahith Chong,Curaçao,0.1102,0.0,551
+Jeremy Antonisse,Curaçao,0.1094,0.0,547
+Oumar Diakité,Ivory Coast,0.166,0.0,830
+Hamed Traorè,Ivory Coast,0.1672,0.0,836
+Quilindschy Hartman,Netherlands,0.0692,0.0,346
+Nikolaus Wurmbrand,Austria,0.0648,0.0,324
+Cedric Bakambu,DR Congo,0.076,0.0,380
+Igor Matanović,Croatia,0.0776,0.0,388
+Martin Baturina,Croatia,0.0842,0.0,421
+Osama Rashid,Iraq,0.1088,0.0,544
+Elijah Just,New Zealand,0.1498,0.0,749
+Abdulrahman Al-Aboud,Saudi Arabia,0.1736,0.0,868
+Rebin Sulaka,Iraq,0.049,0.0,245
+Fredrik Aursnes,Norway,0.0508,0.0,254
+Ernest Nuamah,Ghana,0.0918,0.0,459
+César Blackman,Panama,0.1402,0.0,701
+Jan Vertonghen,Belgium,0.1088,0.0,544
+Sontje Hansen,Curaçao,0.0558,0.0,279
+Kevin Felida,Curaçao,0.0572,0.0,286
+Christian Kouamé,Ivory Coast,0.0814,0.0,407
+Ko Itakura,Japan,0.1042,0.0,521
+Sajjad Jassim,Iraq,0.053,0.0,265
+Amir Al-Ammari,Iraq,0.1124,0.0,562
+Luke Shaw,England,0.0914,0.0,457
+Toni Fruk,Croatia,0.0772,0.0,386
+Ellyes Skhiri,Tunisia,0.0812,0.0,406
+Kaan Ayhan,Turkey,0.0534,0.0,267
+Faisal Al-Ghamdi,Saudi Arabia,0.0846,0.0,423
+Ibrahim Bayesh,Iraq,0.1052,0.0,526
+Julian Ryerson,Norway,0.0532,0.0,266
+Ramiz Zerrouki,Algeria,0.1286,0.0,643
+Yousef Aymen,Qatar,0.0572,0.0,286
+Esmir Bajraktarević,Bosnia and Herzegovina,0.0544,0.0,272
+Roshon van Eijma,Curaçao,0.0576,0.0,288
+Ian Maatsen,Netherlands,0.0718,0.0,359
+Aziz Behich,Australia,0.0856,0.0,428
+Jayden Adams,South Africa,0.0926,0.0,463
+Jakub Pešek,Czech Republic,0.0724,0.0,362
+Vakoun Issouf Bayo,Ivory Coast,0.0778,0.0,389
+Quinten Timber,Netherlands,0.068,0.0,340
+Hamza Rafia,Tunisia,0.1628,0.0,814
+Callum McCowatt,New Zealand,0.0566,0.0,283
+Marc Cucurella,Spain,0.0998,0.0,499
+Jarrod Bowen,England,0.095,0.0,475
+Marc Guéhi,England,0.1002,0.0,501
+Ró-Ró,Qatar,0.059,0.0,295
+Daley Blind,Netherlands,0.0722,0.0,361
+Kristoffer Ajer,Norway,0.0528,0.0,264
+Xaver Schlager,Austria,0.0676,0.0,338
+Ola Solbakken,Norway,0.0572,0.0,286
+Eduardo Camavinga,France,0.0994,0.0,497
+Frenkie de Jong,Netherlands,0.0672,0.0,336
+Maya Yoshida,Japan,0.1018,0.0,509
+Amirhossein Hosseinzadeh,Iran,0.1122,0.0,561
+Aron Dønnum,Norway,0.1066,0.0,533
+Zineddine Belaïd,Algeria,0.1392,0.0,696
+Pedro Miguel,Qatar,0.055,0.0,275
+Vladimír Coufal,Czech Republic,0.071,0.0,355
+Clayton Lewis,New Zealand,0.0244,0.0,122
+Ali Al-Bulaihi,Saudi Arabia,0.0892,0.0,446
+Hugo Ekitike,France,0.0932,0.0,466
+Florian Kainz,Austria,0.0622,0.0,311
+Iqraam Rayners,South Africa,0.0872,0.0,436
+Yunus Akgün,Turkey,0.1524,0.0,762
+Nicolas Raskin,Belgium,0.1058,0.0,529
+Logan Rogerson,New Zealand,0.0264,0.0,132
+Jørgen Strand Larsen,Norway,0.1138,0.0,569
+Houssem Aouar,Algeria,0.1306,0.0,653
+Junya Ito,Japan,0.205,0.0,1025
+Tim Payne,New Zealand,0.0284,0.0,142
+Jens Petter Hauge,Norway,0.0454,0.0,227
+Tomás Rodríguez,Panama,0.2098,0.0,1049
+Emil Holm,Sweden,0.053,0.0,265
+Warren Zaïre-Emery,France,0.097,0.0,485
+Teboho Mokoena,South Africa,0.179,0.0,895
+Liberato Cacace,New Zealand,0.0282,0.0,141
+Akam Hashim,Iraq,0.054,0.0,270
+Cedric Itten,Switzerland,0.1182,0.0,591
+Tameem Al-Abdullah,Qatar,0.1078,0.0,539
+Haris Seferovic,Switzerland,0.1108,0.0,554
+Gabriel Torres,Panama,0.0764,0.0,382
+Livano Comenencia,Curaçao,0.0538,0.0,269
+Johan Bakayoko,Belgium,0.1128,0.0,564
+Max Gradel,Ivory Coast,0.081,0.0,405
+Ar'jany Martha,Curaçao,0.0528,0.0,264
+Cameron Howieson,New Zealand,0.0272,0.0,136
+Nizar Al-Rashdan,Jordan,0.0366,0.0,183
+Antoine Semenyo,Ghana,0.0442,0.0,221
+Matthias Seidl,Austria,0.0668,0.0,334
+Álex Baena,Spain,0.187,0.0,935
+Zeki Çelik,Turkey,0.0484,0.0,242
+Bill Tuiloma,New Zealand,0.085,0.0,425
+Armin Gigović,Bosnia and Herzegovina,0.0566,0.0,283
+Connor Metcalfe,Australia,0.0832,0.0,416
+Jesse Randall,New Zealand,0.0238,0.0,119
+Ben Malango,DR Congo,0.0832,0.0,416
+Kerim Alajbegović,Bosnia and Herzegovina,0.059,0.0,295
+Renato Veiga,Portugal,0.0686,0.0,343
+Kyle Walker,England,0.0906,0.0,453
+Phil Foden,England,0.0886,0.0,443
+Kim Jin-gyu,South Korea,0.0868,0.0,434
+Ahmed Al Ganehi,Qatar,0.0538,0.0,269
+Amar Dedić,Bosnia and Herzegovina,0.0578,0.0,289
+Micky van de Ven,Netherlands,0.0686,0.0,343
+Gustaf Lagerbielke,Sweden,0.0608,0.0,304
+Maghnes Akliouche,France,0.0984,0.0,492

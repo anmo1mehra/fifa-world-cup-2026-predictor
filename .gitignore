@@ -27,10 +27,13 @@ Thumbs.db
 # Streamlit
 .streamlit/secrets.toml
 
-# Generated artifacts (re-create by running the pipeline)
+# Generated intermediate artifacts (re-create by running the pipeline)
 data/processed/
 models/
-outputs/
+
+# We DO commit outputs/ so the Streamlit Cloud deployment has data to render
+# (re-generate with `python -m src.simulate` then `git add outputs/`).
+# outputs/
 
 # Mid-tournament input file (user-specific, may contain in-progress results)
 data/raw/results_so_far.csv

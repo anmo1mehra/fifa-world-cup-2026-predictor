@@ -1,0 +1,70 @@
+{
+  "n_sims": 5000,
+  "champion_probabilities": {
+    "Argentina": 0.3174,
+    "Spain": 0.1612,
+    "Brazil": 0.1148,
+    "Mexico": 0.079,
+    "France": 0.0698,
+    "Morocco": 0.042,
+    "England": 0.0344,
+    "Germany": 0.0308,
+    "Portugal": 0.0272,
+    "Japan": 0.0248,
+    "Belgium": 0.0244,
+    "Netherlands": 0.0196,
+    "Colombia": 0.0184,
+    "Iran": 0.0058,
+    "Switzerland": 0.0052,
+    "Ecuador": 0.0052,
+    "Canada": 0.0026,
+    "Senegal": 0.0026,
+    "South Korea": 0.0024,
+    "Uruguay": 0.0024,
+    "Croatia": 0.0018,
+    "United States": 0.0016,
+    "Australia": 0.0014,
+    "Scotland": 0.0012,
+    "Algeria": 0.0012,
+    "Czech Republic": 0.001,
+    "Turkey": 0.0006,
+    "Austria": 0.0006,
+    "Egypt": 0.0002,
+    "Uzbekistan": 0.0002,
+    "Norway": 0.0002
+  },
+  "top_5_champions": [
+    {
+      "team": "Argentina",
+      "prob": 0.3174
+    },
+    {
+      "team": "Spain",
+      "prob": 0.1612
+    },
+    {
+      "team": "Brazil",
+      "prob": 0.1148
+    },
+    {
+      "team": "Mexico",
+      "prob": 0.079
+    },
+    {
+      "team": "France",
+      "prob": 0.0698
+    }
+  ],
+  "top_scorer": {
+    "player": "Lionel Messi",
+    "team": "Argentina",
+    "golden_boot_prob": 0.1155243406593407,
+    "expected_goals": 2.6992
+  },
+  "top_scorer_goal_distribution": {
+    "mean": 5.3798,
+    "p10": 4.0,
+    "p50": 5.0,
+    "p90": 7.0
+  }
+}

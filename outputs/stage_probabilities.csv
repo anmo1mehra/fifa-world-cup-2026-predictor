@@ -1,0 +1,289 @@
+team,stage,prob
+Algeria,Round of 32,0.832
+Argentina,Round of 32,0.9954
+Australia,Round of 32,0.6628
+Austria,Round of 32,0.7818
+Belgium,Round of 32,0.9884
+Bosnia and Herzegovina,Round of 32,0.2526
+Brazil,Round of 32,0.9488
+Canada,Round of 32,0.9706
+Ivory Coast,Round of 32,0.6964
+DR Congo,Round of 32,0.3104
+Colombia,Round of 32,0.9224
+Cape Verde,Round of 32,0.3274
+Croatia,Round of 32,0.9416
+Curaçao,Round of 32,0.0884
+Czech Republic,Round of 32,0.558
+Ecuador,Round of 32,0.931
+Egypt,Round of 32,0.7054
+England,Round of 32,0.9766
+Spain,Round of 32,0.99
+France,Round of 32,0.979
+Germany,Round of 32,0.9816
+Ghana,Round of 32,0.1186
+Haiti,Round of 32,0.1726
+Iran,Round of 32,0.9076
+Iraq,Round of 32,0.2732
+Jordan,Round of 32,0.1042
+Japan,Round of 32,0.9402
+South Korea,Round of 32,0.8208
+Saudi Arabia,Round of 32,0.4388
+Morocco,Round of 32,0.917
+Mexico,Round of 32,0.9798
+Netherlands,Round of 32,0.9228
+Norway,Round of 32,0.572
+New Zealand,Round of 32,0.115
+Panama,Round of 32,0.6432
+Paraguay,Round of 32,0.5612
+Portugal,Round of 32,0.9656
+Qatar,Round of 32,0.4392
+South Africa,Round of 32,0.2932
+Scotland,Round of 32,0.6348
+Senegal,Round of 32,0.7958
+Switzerland,Round of 32,0.9658
+Sweden,Round of 32,0.4112
+Tunisia,Round of 32,0.3826
+Turkey,Round of 32,0.5754
+Uruguay,Round of 32,0.8646
+United States,Round of 32,0.9048
+Uzbekistan,Round of 32,0.4394
+Algeria,Round of 16,0.2312
+Argentina,Round of 16,0.8228
+Australia,Round of 16,0.2926
+Austria,Round of 16,0.2128
+Belgium,Round of 16,0.7526
+Bosnia and Herzegovina,Round of 16,0.0194
+Brazil,Round of 16,0.7586
+Canada,Round of 16,0.6036
+Ivory Coast,Round of 16,0.1996
+DR Congo,Round of 16,0.024
+Colombia,Round of 16,0.4516
+Cape Verde,Round of 16,0.0292
+Croatia,Round of 16,0.3524
+Curaçao,Round of 16,0.0056
+Czech Republic,Round of 16,0.1726
+Ecuador,Round of 16,0.5582
+Egypt,Round of 16,0.1992
+England,Round of 16,0.6326
+Spain,Round of 16,0.8696
+France,Round of 16,0.743
+Germany,Round of 16,0.741
+Ghana,Round of 16,0.0056
+Haiti,Round of 16,0.0152
+Iran,Round of 16,0.4882
+Iraq,Round of 16,0.0322
+Jordan,Round of 16,0.004
+Japan,Round of 16,0.6924
+South Korea,Round of 16,0.3228
+Saudi Arabia,Round of 16,0.0686
+Morocco,Round of 16,0.6344
+Mexico,Round of 16,0.7802
+Netherlands,Round of 16,0.689
+Norway,Round of 16,0.1566
+New Zealand,Round of 16,0.01
+Panama,Round of 16,0.1068
+Paraguay,Round of 16,0.1954
+Portugal,Round of 16,0.5166
+Qatar,Round of 16,0.0524
+South Africa,Round of 16,0.0282
+Scotland,Round of 16,0.2014
+Senegal,Round of 16,0.3162
+Switzerland,Round of 16,0.6258
+Sweden,Round of 16,0.093
+Tunisia,Round of 16,0.0982
+Turkey,Round of 16,0.2322
+Uruguay,Round of 16,0.4028
+United States,Round of 16,0.51
+Uzbekistan,Round of 16,0.0496
+Algeria,Quarter-Finals,0.0888
+Argentina,Quarter-Finals,0.6608
+Australia,Quarter-Finals,0.0946
+Austria,Quarter-Finals,0.0728
+Belgium,Quarter-Finals,0.3902
+Bosnia and Herzegovina,Quarter-Finals,0.0008
+Brazil,Quarter-Finals,0.6396
+Canada,Quarter-Finals,0.1424
+Ivory Coast,Quarter-Finals,0.0564
+DR Congo,Quarter-Finals,0.002
+Colombia,Quarter-Finals,0.2462
+Cape Verde,Quarter-Finals,0.0024
+Croatia,Quarter-Finals,0.0872
+Curaçao,Quarter-Finals,0.0012
+Czech Republic,Quarter-Finals,0.0598
+Ecuador,Quarter-Finals,0.2868
+Egypt,Quarter-Finals,0.0496
+England,Quarter-Finals,0.3194
+Spain,Quarter-Finals,0.6226
+France,Quarter-Finals,0.3346
+Germany,Quarter-Finals,0.4512
+Ghana,Quarter-Finals,0.0
+Haiti,Quarter-Finals,0.0036
+Iran,Quarter-Finals,0.2032
+Iraq,Quarter-Finals,0.0044
+Jordan,Quarter-Finals,0.0004
+Japan,Quarter-Finals,0.3632
+South Korea,Quarter-Finals,0.1734
+Saudi Arabia,Quarter-Finals,0.011
+Morocco,Quarter-Finals,0.501
+Mexico,Quarter-Finals,0.6066
+Netherlands,Quarter-Finals,0.3492
+Norway,Quarter-Finals,0.0324
+New Zealand,Quarter-Finals,0.0004
+Panama,Quarter-Finals,0.018
+Paraguay,Quarter-Finals,0.0526
+Portugal,Quarter-Finals,0.3136
+Qatar,Quarter-Finals,0.004
+South Africa,Quarter-Finals,0.0042
+Scotland,Quarter-Finals,0.0798
+Senegal,Quarter-Finals,0.0876
+Switzerland,Quarter-Finals,0.2436
+Sweden,Quarter-Finals,0.0102
+Tunisia,Quarter-Finals,0.0148
+Turkey,Quarter-Finals,0.062
+Uruguay,Quarter-Finals,0.159
+United States,Quarter-Finals,0.0838
+Uzbekistan,Quarter-Finals,0.0086
+Algeria,Semi-Finals,0.0184
+Argentina,Semi-Finals,0.5248
+Australia,Semi-Finals,0.0276
+Austria,Semi-Finals,0.0136
+Belgium,Semi-Finals,0.203
+Bosnia and Herzegovina,Semi-Finals,0.0
+Brazil,Semi-Finals,0.4248
+Canada,Semi-Finals,0.0588
+Ivory Coast,Semi-Finals,0.013
+DR Congo,Semi-Finals,0.0004
+Colombia,Semi-Finals,0.0868
+Cape Verde,Semi-Finals,0.0002
+Croatia,Semi-Finals,0.019
+Curaçao,Semi-Finals,0.0
+Czech Republic,Semi-Finals,0.0212
+Ecuador,Semi-Finals,0.105
+Egypt,Semi-Finals,0.0114
+England,Semi-Finals,0.1312
+Spain,Semi-Finals,0.4596
+France,Semi-Finals,0.1854
+Germany,Semi-Finals,0.2012
+Ghana,Semi-Finals,0.0
+Haiti,Semi-Finals,0.0002
+Iran,Semi-Finals,0.0896
+Iraq,Semi-Finals,0.0
+Jordan,Semi-Finals,0.0
+Japan,Semi-Finals,0.1722
+South Korea,Semi-Finals,0.0476
+Saudi Arabia,Semi-Finals,0.0008
+Morocco,Semi-Finals,0.2892
+Mexico,Semi-Finals,0.3758
+Netherlands,Semi-Finals,0.159
+Norway,Semi-Finals,0.0064
+New Zealand,Semi-Finals,0.0
+Panama,Semi-Finals,0.0038
+Paraguay,Semi-Finals,0.0102
+Portugal,Semi-Finals,0.1128
+Qatar,Semi-Finals,0.0004
+South Africa,Semi-Finals,0.0004
+Scotland,Semi-Finals,0.0172
+Senegal,Semi-Finals,0.0188
+Switzerland,Semi-Finals,0.0878
+Sweden,Semi-Finals,0.0008
+Tunisia,Semi-Finals,0.0014
+Turkey,Semi-Finals,0.0192
+Uruguay,Semi-Finals,0.0524
+United States,Semi-Finals,0.028
+Uzbekistan,Semi-Finals,0.0006
+Algeria,Final,0.0064
+Argentina,Final,0.4384
+Australia,Final,0.0064
+Austria,Final,0.005
+Belgium,Final,0.0714
+Bosnia and Herzegovina,Final,0.0
+Brazil,Final,0.2294
+Canada,Final,0.0118
+Ivory Coast,Final,0.0014
+DR Congo,Final,0.0
+Colombia,Final,0.0496
+Cape Verde,Final,0.0
+Croatia,Final,0.0058
+Curaçao,Final,0.0
+Czech Republic,Final,0.0034
+Ecuador,Final,0.0228
+Egypt,Final,0.0022
+England,Final,0.0824
+Spain,Final,0.2846
+France,Final,0.1214
+Germany,Final,0.0842
+Ghana,Final,0.0
+Haiti,Final,0.0
+Iran,Final,0.022
+Iraq,Final,0.0
+Jordan,Final,0.0
+Japan,Final,0.0648
+South Korea,Final,0.011
+Saudi Arabia,Final,0.0
+Morocco,Final,0.1146
+Mexico,Final,0.1796
+Netherlands,Final,0.0588
+Norway,Final,0.0014
+New Zealand,Final,0.0
+Panama,Final,0.0002
+Paraguay,Final,0.0012
+Portugal,Final,0.0652
+Qatar,Final,0.0
+South Africa,Final,0.0
+Scotland,Final,0.0044
+Senegal,Final,0.007
+Switzerland,Final,0.0226
+Sweden,Final,0.0
+Tunisia,Final,0.0002
+Turkey,Final,0.0044
+Uruguay,Final,0.0102
+United States,Final,0.0056
+Uzbekistan,Final,0.0002
+Algeria,Champion,0.0012
+Argentina,Champion,0.3174
+Australia,Champion,0.0014
+Austria,Champion,0.0006
+Belgium,Champion,0.0244
+Bosnia and Herzegovina,Champion,0.0
+Brazil,Champion,0.1148
+Canada,Champion,0.0026
+Ivory Coast,Champion,0.0
+DR Congo,Champion,0.0
+Colombia,Champion,0.0184
+Cape Verde,Champion,0.0
+Croatia,Champion,0.0018
+Curaçao,Champion,0.0
+Czech Republic,Champion,0.001
+Ecuador,Champion,0.0052
+Egypt,Champion,0.0002
+England,Champion,0.0344
+Spain,Champion,0.1612
+France,Champion,0.0698
+Germany,Champion,0.0308
+Ghana,Champion,0.0
+Haiti,Champion,0.0
+Iran,Champion,0.0058
+Iraq,Champion,0.0
+Jordan,Champion,0.0
+Japan,Champion,0.0248
+South Korea,Champion,0.0024
+Saudi Arabia,Champion,0.0
+Morocco,Champion,0.042
+Mexico,Champion,0.079
+Netherlands,Champion,0.0196
+Norway,Champion,0.0002
+New Zealand,Champion,0.0
+Panama,Champion,0.0
+Paraguay,Champion,0.0
+Portugal,Champion,0.0272
+Qatar,Champion,0.0
+South Africa,Champion,0.0
+Scotland,Champion,0.0012
+Senegal,Champion,0.0026
+Switzerland,Champion,0.0052
+Sweden,Champion,0.0
+Tunisia,Champion,0.0
+Turkey,Champion,0.0006
+Uruguay,Champion,0.0024
+United States,Champion,0.0016
+Uzbekistan,Champion,0.0002

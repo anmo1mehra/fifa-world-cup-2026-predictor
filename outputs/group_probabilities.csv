@@ -1,0 +1,49 @@
+group,team,p_finish_1st,p_advance
+A,Mexico,0.706,0.9798
+A,South Africa,0.0178,0.2932
+A,South Korea,0.2088,0.8208
+A,Czech Republic,0.0674,0.558
+B,Canada,0.489,0.9706
+B,Bosnia and Herzegovina,0.0112,0.2526
+B,Qatar,0.0314,0.4392
+B,Switzerland,0.4684,0.9658
+C,Brazil,0.5568,0.9488
+C,Morocco,0.355,0.917
+C,Haiti,0.0114,0.1726
+C,Scotland,0.0768,0.6348
+D,United States,0.5312,0.9048
+D,Paraguay,0.1308,0.5612
+D,Australia,0.1848,0.6628
+D,Turkey,0.1532,0.5754
+E,Germany,0.6622,0.9816
+E,Curaçao,0.0026,0.0884
+E,Ivory Coast,0.0722,0.6964
+E,Ecuador,0.263,0.931
+F,Netherlands,0.442,0.9228
+F,Japan,0.4806,0.9402
+F,Sweden,0.036,0.4112
+F,Tunisia,0.0414,0.3826
+G,Belgium,0.6842,0.9884
+G,Egypt,0.0658,0.7054
+G,Iran,0.2454,0.9076
+G,New Zealand,0.0046,0.115
+H,Spain,0.7414,0.99
+H,Cape Verde,0.022,0.3274
+H,Saudi Arabia,0.0334,0.4388
+H,Uruguay,0.2032,0.8646
+I,France,0.7168,0.979
+I,Senegal,0.1776,0.7958
+I,Iraq,0.0182,0.2732
+I,Norway,0.0874,0.572
+J,Argentina,0.8044,0.9954
+J,Algeria,0.115,0.832
+J,Austria,0.079,0.7818
+J,Jordan,0.0016,0.1042
+K,Portugal,0.5424,0.9656
+K,DR Congo,0.0276,0.3104
+K,Colombia,0.3904,0.9224
+K,Uzbekistan,0.0396,0.4394
+L,England,0.5864,0.9766
+L,Croatia,0.3254,0.9416
+L,Ghana,0.0048,0.1186
+L,Panama,0.0834,0.6432
